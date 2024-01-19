@@ -1,2 +1,2 @@
 # jterm24
-Demo repository 2024
+My Demo repository for J-Term 2024
