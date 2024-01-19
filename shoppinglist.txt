@@ -1,0 +1,6 @@
+coffee
+donuts
+pillow
+cups
+sugar
+milk
